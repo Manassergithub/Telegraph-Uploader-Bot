@@ -7,6 +7,9 @@ A telegram media to telegraph uploader bot
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 
 </a>
+
+
+
 ## Variables
 
 - `API_HASH` Your API Hash from my.telegram.org
